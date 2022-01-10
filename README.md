@@ -3,7 +3,17 @@
 
 #### - 👨‍🎓 WEB DEVELOPMENT BOOTCAMP at @IRONHACK
 #### - 🛠️ TECHNOLOGIES:
-##### - HTML5
+#####  HTML5
+#####  CSS3
+#####  JAVASCRIPT (ES6)
+#####  REACT 
+#####  NODE JS
+#####  MONGO DB
+#####  EXPRESS
+
+#### - 💬 Check my LINKEDIN Profile : https://www.linkedin.com/in/alejandro-alcaide-puebla/
+
+
 
 <!--
 **AlexVonrez/AlexVonrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
