@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Alex!
 
-#### - 👨‍🎓 WEB DEVELOPMENT BOOTCAMP at @IRONHACK
+#### - 👨‍🎓 WEB DEVELOPMENT BOOTCAMP at @IRONHACK MADRID
 #### - 🛠️ TECHNOLOGIES:
 #####  HTML5
 #####  CSS3
@@ -12,6 +12,7 @@
 #####  EXPRESS
 
 #### - 💬 Check my LINKEDIN Profile : https://www.linkedin.com/in/alejandro-alcaide-puebla/
+#### - 📫 How to reach me: alexvonrez1@gmail.com
 
 
 
