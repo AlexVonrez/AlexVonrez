@@ -1,12 +1,13 @@
 ### Hi there 👋
 ### My name is Alex!
 
-#### - 👨‍🎓 WEB DEVELOPMENT BOOTCAMP at @IRONHACK MADRID
+#### - 👨‍🎓 WEB DEVELOPER 
 #### - 🛠️ TECHNOLOGIES:
 #####  HTML5
 #####  CSS3
 #####  JAVASCRIPT (ES6)
 #####  REACT 
+#####  TYPESCRIPT
 #####  NODE JS
 #####  MONGO DB
 #####  EXPRESS
